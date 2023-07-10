@@ -4,5 +4,5 @@ import os
 def lambda_handler(event, context):
 
     print(event)
-    print("vibes bro vibes")
+    print("clean infected")
     
